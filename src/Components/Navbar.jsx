@@ -22,7 +22,7 @@ const Navbar = () => {
         <input
           className="bg-transparent p-2 focus:outline-none w-full"
           type="text"
-          placeholder="Search food"
+          placeholder="World"
         />
       </div>
       <p className=" text-white hidden md:flex"></p>
